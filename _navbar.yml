@@ -1,0 +1,7 @@
+title: "Re-Equation"
+left:
+  - text: "Home"
+    href: index.html
+  - text: "Circle Theorems"
+    menu:
+      - text: "CT1"
