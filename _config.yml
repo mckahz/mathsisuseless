@@ -12,7 +12,7 @@ aux_links:
 
 # navigation
 collections:
-  articles: "/:collections/:path/"
+  articles: "/:collection/:path/"
   output: true
 
 just_the_docs:
