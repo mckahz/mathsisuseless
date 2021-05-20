@@ -12,8 +12,9 @@ aux_links:
 
 # navigation
 collections:
-  articles: "/:collection/:path/"
-  output: true
+  articles: 
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
