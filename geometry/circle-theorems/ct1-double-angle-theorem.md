@@ -5,7 +5,6 @@ parent: "Circle Theorems"
 grand_parent: "Geometry"
 has_children: true
 has_toc: false
-{% include math.html %}
 ---
 
 # Double Angle Theorem (CT1)
