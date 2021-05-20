@@ -1,4 +1,21 @@
+# title (the comment helps)
+title: "Re-Equation"
+
+# theming
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 
-theme: jekyll-theme-cayman
+#the links in the top right of the page
+aux_links:
+  "Github":
+    - "https://github.com/mckahz/re-equation"
+
+# navigation
+collections:
+  articles: "/:collections/:path/"
+  output: true
+
+just_the_docs:
+  collections:
+    articles:
+      name: Articles
