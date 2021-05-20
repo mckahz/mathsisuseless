@@ -9,16 +9,3 @@ color_scheme: dark
 aux_links:
   "Github":
     - "https://github.com/mckahz/re-equation"
-
-# navigation
-collections:
-  geometry:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    geometry:
-      name: Geometry
-      nav_exclude: false
-      search_exclude: false
