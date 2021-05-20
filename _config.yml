@@ -12,11 +12,13 @@ aux_links:
 
 # navigation
 collections:
-  articles: 
+  geometry:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
-    articles:
-      name: Articles
+    geometry:
+      name: Geometry
+      nav_exclude: false
+      search_exclude: false
