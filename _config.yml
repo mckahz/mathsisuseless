@@ -2,7 +2,7 @@
 title: "Re-Equation"
 
 # theming
-remote_theme: mckahz/just-the-docs
+remote_theme: "pmarsceill/just-the-docs"
 color_scheme: dark
 
 #the links in the top right of the page
