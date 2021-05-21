@@ -1,11 +1,11 @@
 ---
-title: "Double Angle Theorem (CT1)"
-nav_order: 1
+title: "Bisecting Choord Theorem (CT8)"
+nav_order: 8
 parent: "Circle Theorems"
 grand_parent: "Geometry"
 has_children: true
 ---
 
-# Double Angle Theorem (CT1)
+# Bisecting Choord Theorem (CT8)
 
 The circle theorem 1.

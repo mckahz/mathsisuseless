@@ -1,11 +1,11 @@
 ---
-title: "Double Angle Theorem (CT1)"
-nav_order: 1
+title: "Intersecting Tangent Theorem II (CT7)"
+nav_order: 7
 parent: "Circle Theorems"
 grand_parent: "Geometry"
 has_children: true
 ---
 
-# Double Angle Theorem (CT1)
+# Intersecting Tangent Theorem II (CT7)
 
 The circle theorem 1.

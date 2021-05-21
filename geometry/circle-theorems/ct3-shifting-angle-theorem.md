@@ -1,11 +1,11 @@
 ---
-title: "Double Angle Theorem (CT1)"
-nav_order: 1
+title: "Shifting Angle Theorem (CT3)"
+nav_order: 3
 parent: "Circle Theorems"
 grand_parent: "Geometry"
 has_children: true
 ---
 
-# Double Angle Theorem (CT1)
+# Shifting Angle Theorem (CT3)
 
 The circle theorem 1.
