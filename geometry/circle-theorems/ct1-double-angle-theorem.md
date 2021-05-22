@@ -5,10 +5,9 @@ parent: "Circle Theorems"
 grand_parent: "Geometry"
 has_children: true
 has_toc: false
+---
 
 {% include mathjax.html %}
-
----
 
 # Double Angle Theorem (CT1)
 
