@@ -11,7 +11,7 @@ has_toc: false
 
 # Double Angle Theorem (CT1)
 
-\[\sum_{n=0}^\infty \frac{1}{n^2}\]
+\[\sum_{n=0}^\infty \frac{1}{n^2} = \frac{\pi^2}{6}\]
 
 CT1, or the double angle theorem as I'll be calling it, is the foundation for half the rest of the circle theorems. The theorem states that a shape like this:
 
