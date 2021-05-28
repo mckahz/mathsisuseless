@@ -7,8 +7,6 @@ has_children: true
 has_toc: false
 ---
 
-{% include mathjax.html %}
-
 # Double Angle Theorem (CT1)
 
 \[\sum_{n=0}^\infty \frac{1}{n^2} = \frac{\pi^2}{6}\]
