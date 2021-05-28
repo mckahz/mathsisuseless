@@ -9,13 +9,11 @@ has_toc: false
 
 # Double Angle Theorem (CT1)
 
-\\[\sum_{n=0}^\infty \frac{1}{n^2} = \frac{\pi^2}{6}\\]
-
 CT1, or the double angle theorem as I'll be calling it, is the foundation for half the rest of the circle theorems. The theorem states that a shape like this:
-
+<object id="statement" data="statement.html" type="image/svg+xml"></object>
 That is, drawn on the inside of a circle where \\(C\\) is the center, the blue angle is twice the red angle.
-This is pretty easy to prove, too:
-Lets first label them, because symbols are nice.
+
+## Proof
 
 Draw a line from the center to the smaller angle.
 The 2 inner angles we'll call \\(\alpha\\) and \\(\beta\\).

@@ -1,0 +1,16 @@
+{
+	"Inline Math": 
+	{
+		"scope": "markdown",
+		"prefix": "$",
+		"body": "//(//)",
+		"description": "Log output to console"
+	},
+	"Block Math": 
+	{
+		"scope": "markdown",
+		"prefix": "$$",
+		"body": "//[//]",
+		"description": "Log output to console"
+	}
+}
