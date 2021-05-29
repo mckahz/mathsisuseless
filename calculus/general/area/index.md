@@ -1,7 +1,7 @@
 ---
 title: "What is Area?"
 nav_order: 6
-parent: "Kinematics"
+parent: "General"
 grand_parent: "Calculus"
 has_toc: false
 ---

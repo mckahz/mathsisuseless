@@ -16,5 +16,5 @@ I will give a non-graphical intuition for the derivative here for 2 reasons:
 2. The derivative isn't all about slopes, it's all about rates of change. While slopes are a good way to introduce and visualise the derivative, it doesn't expand very far into the study of calculus.
 
 There will be a few layman's terms used in these lessons:
-1. I will also be using kilometers and hours instead of meters and seconds to cause less friction with those learning the derivative. People comfortable with m/s have likely already taken a calculus course.
+1. I will also be using kilometers and hours instead of meters and seconds to cause less friction with those learning the derivative. People comfortable with m/s have likely already taken a calculus course. And first principles makes the usage of \\(h\\) feel more sensible.
 2. I use speed and distance instead of the usual velocity and displacement. This is a more substantive change, since it technically makes everything taught here *wrong*, but I chose to use these words because laymen think in these terms. The nuance between the 2 isn't important for grasping the ideas of calculus, so for a less frictionless uptake, I think it's worth the correction later down the line of introducing the difference between scalars and vectors.
