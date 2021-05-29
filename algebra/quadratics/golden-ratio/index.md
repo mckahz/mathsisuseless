@@ -30,11 +30,11 @@ Let's call this ratio \\(\phi\\) (a greek letter spelled "phi", pronounced "fai"
 We can then solve for \\(\phi\\)
 \\[
 \begin{aligned}
-\frac{A+B}{A} &= \frac{A}{B} \\
-\frac{A}{A} + \frac{B}{A} &= \frac{A}{B} \\
-1 + \frac{1}{\phi} &= \phi \\
-1\times\phi + \frac{1}{\phi}\times\phi &= \phi\times\phi \\
-\phi + 1 &= \phi^2 \\
+\frac{A+B}{A} &= \frac{A}{B} \\\\
+\frac{A}{A} + \frac{B}{A} &= \frac{A}{B} \\\\
+1 + \frac{1}{\phi} &= \phi \\\\
+1\times\phi + \frac{1}{\phi}\times\phi &= \phi\times\phi \\\\
+\phi + 1 &= \phi^2 \\\\
 \phi^2 - \phi - 1 &= 0
 \end{aligned}    
 \\]
