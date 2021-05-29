@@ -33,19 +33,22 @@ We can then solve for $$\phi$$
 
 $$
 \begin{aligned}
-\frac{A+B}{A} &= \frac{A}{B} \\\\
-\frac{A}{A} + \frac{B}{A} &= \frac{A}{B} \\\\
-1 + \frac{1}{\phi} &= \phi \\\\
-1\times\phi + \frac{1}{\phi}\times\phi &= \phi\times\phi \\\\
-\phi + 1 &= \phi^2 \\\\
+\frac{A+B}{A} &= \frac{A}{B} \\
+\frac{A}{A} + \frac{B}{A} &= \frac{A}{B} \\
+1 + \frac{1}{\phi} &= \phi \\
+1\times\phi + \frac{1}{\phi}\times\phi &= \phi\times\phi \\
+\phi + 1 &= \phi^2 \\
 \phi^2 - \phi - 1 &= 0
 \end{aligned}    
 $$
 
 Ah, this is why this is in the quadratics part of the website.
 We can use the quadratic formula $$a=1, b=-1, c=-1$$
+
 $$\phi = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} = \frac{1 \pm \sqrt{1 - 4(1)(-1)}}{2(1)} = \frac{1 \pm \sqrt{5}}{2}$$
+
 But our lengths are positive, so the ratio must be aswell, allowing us to ignore the negative solution.
 
 Therefore
+
 $$\phi = \frac{1 + \sqrt{5}}{2}$$
