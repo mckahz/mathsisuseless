@@ -31,4 +31,4 @@ This question turns out to be quite involved, and we'll get to it in a bit, but 
 What is the *average* speed between 2 points in time? Average just means as if it were constant, and we already know how to solve for
 constant speed. Between when we started, \\(t=0\\), and let's say, \\(t=3\\), we travelled \\(9\\)km. So the average
 velocity for the first 3 hours of our journey is
-\\[\frac{9\text{km}}{3\text{h}}=3\text{km/h} \\]
+\\[\frac{9\\text{km}}{3\\text{h}}=3\\text{km/h} \\]
