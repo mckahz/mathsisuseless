@@ -10,7 +10,7 @@ has_toc: false
 # Double Angle Theorem (CT1)
 
 CT1, or the "Double Angle Theorem" as I'll be calling it, is the foundation for half the rest of the circle theorems. The theorem states that a shape like this:
-<iframe src="https://www.desmos.com/calculator/dzpfl9kumt?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 That is, drawn on the inside of a circle where \\(C\\) is the center, the blue angle is twice the red angle.
 
 ## Proof
