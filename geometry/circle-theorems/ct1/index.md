@@ -23,21 +23,13 @@ This gives us that $$2\alpha + x = 180$$ and $$2\beta + y = 180$$. We can add th
 $$
 \begin{aligned}
 (2\alpha + x) + (2\beta + y) &= 180 + 180 \\
-2\alpha + x + 2\beta + y &= 360 \\
 2\alpha + 2\beta + x + y &= 360 \\
-2(\alpha + \beta) + x + y &= 360
+2(\alpha + \beta) + x + y &= 360 \\
+2\theta + x + y &= 360
 \end{aligned}
 $$
 
 We also know that $$x + y + \phi = 360$$, since that forms one full revolution. So we can determine that
 
-$$
-\begin{aligned}
-2(\alpha + \beta) + x + y &= 360 = x + y + \phi \\
-2(\alpha + \beta) + x + y &= x + y + \phi \\
-2(\alpha + \beta) &= \phi
-\end{aligned}
-$$
-
-But $$\alpha + \beta$$ is our original angle, $$\theta$$.
-Therefore $$2\theta = \phi$$
+$$ 2\theta + x + y = 360 = x + y + \phi $$
+Remove the middle man 360, $$x$$ and $$y$$ and we get $$2\theta = \phi$$, as desired.
