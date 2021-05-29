@@ -26,12 +26,12 @@ Here's the clever part: the speed at 3 hours must be greater than the average sp
 Let's see what numbers pop out when we do this
 
 $$
-\begin{aligning}
+\begin{aligned}
 \frac{\text{Change in position over last 1 hour}}{1 hour} &< \text{Speed at 3 hours} < \frac{\text{Change in position over next 1 hour}}{1 hour} \\
 \frac{3^2 - (3-1)^2}{1}                                   &< \text{Speed at 3 hours} < \frac{(3+1)^2 - 3^2}{1} \\
 9-4                                                       &< \text{Speed at 3 hours} < 16-9 \\
 5                                                         &< \text{Speed at 3 hours} < 7
-\end{aligning}
+\end{aligned}
 &&
 
 Now we know the speed at 3 hours is between 5 and 7, much more precise than before! Let's try and shrink the boundaries even more, by testing

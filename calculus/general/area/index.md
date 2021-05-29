@@ -19,14 +19,14 @@ It's 12km$$^2$$, of course! Because we can fit 12 squares into the rectangle, wh
 But let's highlight the steps we just skipped over in our heads,
 
 $$
-\begin{aligning}
+\begin{aligned}
 \text{Area}
 &= 3\text{km}\times4\text{km} \\
 &= 3\times4\times\text{km}\times\text{km} \\
 &= 12\times\text{km}\times\text{km} \\
 &= 12\times\text{km}^2 \\
 &= 12\text{km}^2
-\end{aligning}
+\end{aligned}
 $$
 
 A bit verbose? Perhaps, but it's actually a good argument for 2 things; implicit multiplication and the order of operations, though that's for another day.
@@ -37,11 +37,11 @@ This is exactly what each square is! It's height is measured in km/hour and widt
 So what is the area of this square? It's
 
 $$
-\begin{aligning}
+\begin{aligned}
 \frac{1\text{km}}{\text{h}}\times 1\text{h}
 $= 1\times1\times\frac{\text{km}}{\text{h}}\text{h} \\
 $= 1\text{km}
-\end{aligning}
+\end{aligned}
 $$
 
 Which suggests that the area of this graph might have something to do with the distance travelled. 

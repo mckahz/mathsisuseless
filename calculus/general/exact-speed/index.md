@@ -20,14 +20,14 @@ $$\text{Speed at time 3 hours} < \frac{(3+h)^2-3^2}{h}$$
 Both equations put together gets us
 
 $$
-\begin{aligning}
+\begin{aligned}
 \frac{3^2-(3-h)^2}{h}           &< \text{Speed at time 3 hours} < \frac{(3+h)^2-3^2}{h} \\
 \frac{3^2-3^2+2\cdot 3h-h^2}{h} &< \text{Speed at time 3 hours} < \frac{3^2+2\cdot3h+h^2-3^2}{h} \\
 \frac{2\cdot 3h-h^2}{h}         &< \text{Speed at time 3 hours} < \frac{2\cdot3h+h^2}{h} \\
 \frac{h(2\cdot 3-h)}{h}         &< \text{Speed at time 3 hours} < \frac{h(2\cdot3+h)}{h} \\
 2\cdot3-h                       &< \text{Speed at time 3 hours} < 2\cdot3+h \\
 6-h                             &< \text{Speed at time 3 hours} < 6+h
-\end{aligning}
+\end{aligned}
 $$
 
 Wouldn't you agree, that the speed 3 hours into our journey can't be anything other than 6?

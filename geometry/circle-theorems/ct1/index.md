@@ -21,22 +21,22 @@ I'm gonna quickly add more labels, but don't worry! We won't use them long!
 This gives us that $$2\alpha + x = 180$$ and $$2\beta + y = 180$$. We can add these 2 equations together to get
 
 $$
-\begin{aligning}
+\begin{aligned}
 (2\alpha + x) + (2\beta + y) &= 180 + 180 \\
 2\alpha + x + 2\beta + y &= 360 \\
 2\alpha + 2\beta + x + y &= 360 \\
 2(\alpha + \beta) + x + y &= 360
-\end{aligning}
+\end{aligned}
 $$
 
 We also know that $$x + y + \phi = 360$$, since that forms one full revolution. So we can determine that
 
 $$
-\begin{aligning}
+\begin{aligned}
 2(\alpha + \beta) + x + y &= 360 = x + y + \phi \\
 2(\alpha + \beta) + x + y &= x + y + \phi \\
 2(\alpha + \beta) &= \phi
-\end{aligning}
+\end{aligned}
 $$
 
 But $$\alpha + \beta$$ is our original angle, $$\theta$$.
