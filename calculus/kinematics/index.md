@@ -1,5 +1,5 @@
 ---
-title: "Kinematics In Calculus"
+title: "Kinematics"
 nav_order: 0
 has_children: true
 parent: "Calculus"

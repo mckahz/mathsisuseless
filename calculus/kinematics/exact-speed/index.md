@@ -1,7 +1,7 @@
 ---
 title: "Exact Speed"
 nav_order: 1
-parent: "Kinematics In Calculus"
+parent: "Kinematics"
 grand_parent: "Calculus"
 has_toc: false
 ---
