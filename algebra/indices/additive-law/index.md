@@ -15,11 +15,11 @@ $$\underbrace{a\times a\times a}_{3\text{ times}}\times \underbrace{a\times a}_{
 And it's not to hard to see that overall we just have $$a$$ multiplied by itself $$3+2=5$$ times.
 This is the additive law of exponents, we express this idea
 
-$$\overset{\underbrace{a\times a\times a}_{3\text{ times}}\times \underbrace{a\times a}_{2\text{ times}}}^{3+2\text{ times}}$$
+$$\overbrace{\underbrace{a\times a\times a}_{3\text{ times}}\times \underbrace{a\times a}_{2\text{ times}}}^{3+2\text{ times}}$$
 
 or more generally,
 
-$$\overset{\underbrace{a\times \cdots\times a}_{m\text{ times}}\times \underbrace{a\times \cdots\times a}_{n\text{ times}}}^{m+n\text{ times}}$$
+$$\overbrace{\underbrace{a\times \cdots\times a}_{m\text{ times}}\times \underbrace{a\times \cdots\times a}_{n\text{ times}}}^{m+n\text{ times}}$$
 
 with the equation
 
