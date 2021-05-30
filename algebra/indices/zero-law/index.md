@@ -8,14 +8,14 @@ has_toc: false
 
 # Zero Law
 
-I like conceptualizing these laws as civil laws. They're things that we say are true, becuase maths behaves nicely when we do, but they're not underlying some fundemental truth about the universe, we just made them up. For instance, what is $$a^0$$?
+I like conceptualizing these laws as civil laws. They're things that we say are true, because maths behaves nicely when we do, but they're not underlying some fundemental truth about the universe, we just made them up. For instance, what is $$a^0$$?
 It doesn't really make sense to multiply something by itself 0 times!
 But let's assume we *can* do it, and see what comes of it.
 We know that $$a^ma^n=a^{m+n}$$, so it might be nice if $$a^0$$ fit into this rule aswell.
 
 $$a^0a^m=a^{m+0}=a^m$$
 
-If this is the case, that $$a^0a^m=a^m$$, then multiplying by $$a^0$$ does nothing, it's effectively 1, isn't it?
+If this is the case, that $$a^0a^m=a^m$$, then multiplying by $$a^0$$ does nothing. $$a^0$$ is effectively 1.
 Well, that's the next law, 
 
 $$a^0 = 1$$

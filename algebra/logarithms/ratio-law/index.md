@@ -15,6 +15,7 @@ $$
 \log_a\left(\frac{b}{c}\right)
 &= \log_a\left(b\frac{1}{c}\right) \\
 &= \log_a(b) + \log_a\left(\frac{1}{c}\right) \\
+&= \log_a(b) + \log_a\left(\frac{1}{c^1}\right) \\
 &= \log_a(b) + \log_a\left(c^{-1}\right) \\
 &= \log_a(b) + (-1)\cdot\log_a(c) \\
 &= \log_a(b) - \log_a(c) \\

@@ -38,7 +38,7 @@ The same argument works for any set of numbers,
 
 $$
 \begin{aligned}
-(a^n)^m = \underbrace{a^n \times \cdots \times a^n}_{m \times} \\
+(a^n)^m &= \underbrace{a^n \times \cdots \times a^n}_{m \text{ times}} \\
 &= a^{m\times n}
 \end{aligned}
 $$

@@ -8,7 +8,7 @@ has_toc: false
 
 # Additive Law
 
-I'm just gonna let the maths speak for itself here
+I'm just gonna let the algebra speak for itself here
 
 $$
 \begin{aligned}
@@ -24,8 +24,8 @@ $$
 
 And that's the additive log law, for any base of our logarithm $$x$$
 
-$$\log_x(ab) &= \log_x(a) + \log_x(b)$$
+$$\log_x(ab) = \log_x(a) + \log_x(b)$$
 
 An intuitive way to imagine this is with multiples of 10:
 
-$$\log_10(100,000) = 5 = 3+2 = \log_10(1,000) + \log_10(100)$$
+$$\log_{10}(100,000) = 5 = 3+2 = \log_{10}(1,000) + \log_{10}(100)$$

@@ -20,6 +20,6 @@ In general, $$\log_a(b)$$ means "$$a$$ to the *what* equals $$b$$?" And this isn
 | 4 to the what equals 16? | $$\log_4(16)$$ | 2 | $$4^2=16$$ |
 | 10 to the what equals 10000? | $$\log_10(10000)$$ | 4 | $$10^4=10000$$ |
 | 2 to the what equals 2048? | $$\log_2(2048)$$ | 11 | 2^{11}=2048 |
-| $$cdots$$ | $$cdots$$ | $$cdots$$ | $$cdots$$ |
+| $$\cdots$$ | $$\cdots$$ | $$\cdots$$ | $$\cdots$$ |
 
-This chapter will be quite algebra heavy. This is because I don't really think there is a good intuitive way to understand logarithms, but at least seeing the proofs lets you know that these laws don't just come out of nowhere.
+This chapter will be quite algebra heavy. This is because I don't really think there is a good, intuitive way to understand logarithms, but at least seeing the proofs lets you know that these laws don't just come out of thin air.
