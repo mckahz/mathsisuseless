@@ -32,4 +32,9 @@ $$
 We also know that $$x + y + \phi = 360$$, since that forms one full revolution. So we can determine that
 
 $$ 2\theta + x + y = 360 = x + y + \phi $$
-Remove the middle man 360, $$x$$ and $$y$$ and we get $$2\theta = \phi$$, as desired.
+
+Remove the middle man 360 to get 
+
+$$ 2\theta + x + y = x + y + \phi $$
+
+Subtract $$x$$ and $$y$$ from both sides and we get $$2\theta = \phi$$, as desired.

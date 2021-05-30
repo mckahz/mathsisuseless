@@ -1,16 +1,15 @@
 {
-	"Inline Math": 
+	"Aligned Math": 
 	{
 		"scope": "markdown",
-		"prefix": "$",
-		"body": "\\\\\\($1\\\\\\)",
-		"description": "Log output to console"
-	},
-	"Block Math": 
-	{
-		"scope": "markdown",
-		"prefix": "$$",
-		"body": "\\\\\\[$1\\\\\\]",
-		"description": "Log output to console"
+		"prefix": "aligned",
+		"body": [
+			"$$",
+			"\\begin{aligned}",
+			"",
+			"\\end{aligned}",
+			"$$"
+		],
+		"description": "Create an aligned environment to work in."
 	}
 }
