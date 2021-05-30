@@ -1,7 +1,7 @@
 ---
 title: "Rational Law"
 nav_order: 3
-parent: "Indicies"
+parent: "Indices"
 grand_parent: "Algebra"
 has_toc: false
 ---

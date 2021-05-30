@@ -23,7 +23,7 @@ $$
 50 &= 50 \\
 50 &= 2^{\log_2(50)} \\
 2 &= 10^{\log_{10}(2)} \\
-\implies 50 &= (10^{\log_{10}(2)}})^{\log_2(50)} \\
+\implies 50 &= (10^{\log_{10}(2)})^{\log_2(50)} \\
 50 &= 10^{\log_{10}(2)\log_2(50)} \\
 50 &= 10^{\log_{10}(50)} \\
 \implies 10^{\log_{10}(50)} &= 10^{\log_{10}(2)\log_2(50)} \\
@@ -39,7 +39,7 @@ $$
 a &= a \\
 a &= b^{\log_b(a)} \\
 b &= c^{\log_c(b)} \\
-\implies a &= (c^{\log_c(b)}})^{\log_b(a)} \\
+\implies a &= (c^{\log_c(b)})^{\log_b(a)} \\
 a &= c^{\log_c(b)\log_b(a)} \\
 a &= c^{\log_c(a)} \\
 \implies c^{\log_c(a)} &= c^{\log_c(b)\log_b(a)} \\

@@ -12,7 +12,7 @@ I'm just gonna let the maths speak for itself here
 
 $$
 \begin{aligned}
-a &= x^{\log_x(a)}
+a &= x^{\log_x(a)} \\
 b &= x^{\log_x(b)} \\
 ab &= x^{\log_x(ab)} \\
 ab &= ab \\

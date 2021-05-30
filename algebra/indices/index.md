@@ -1,5 +1,5 @@
 ---
-title: "Indicies"
+title: "Indices"
 nav_order: 1
 has_children: true
 parent: "Algebra"
@@ -25,6 +25,6 @@ $$
 
 And in general,
 
-$$a^n = \underbrace{a\times...\timesa}_{n\teat{ times}}$$
+$$a^n = \underbrace{a\times...\times a}_{n\text{ times}}$$
 
 I will use the word "exponents" interchangeably with "indicies", but they mean the same thing.

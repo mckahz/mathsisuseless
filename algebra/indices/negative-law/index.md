@@ -1,7 +1,7 @@
 ---
 title: "Negative Law"
 nav_order: 4
-parent: "Indicies"
+parent: "Indices"
 grand_parent: "Algebra"
 has_toc: false
 ---

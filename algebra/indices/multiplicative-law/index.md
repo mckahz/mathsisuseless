@@ -1,7 +1,7 @@
 ---
 title: "Multiplicative Law"
 nav_order: 2
-parent: "Indicies"
+parent: "Indices"
 grand_parent: "Algebra"
 has_toc: false
 ---
@@ -38,7 +38,7 @@ The same argument works for any set of numbers,
 
 $$
 \begin{aligned}
-(a^n)^m = \underset{a^n \times \cdots \times a^n}_{m \times} \\
+(a^n)^m = \underbrace{a^n \times \cdots \times a^n}_{m \times} \\
 &= a^{m\times n}
 \end{aligned}
 $$
