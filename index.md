@@ -2,10 +2,13 @@
 title: "Home"
 nav_order: 1
 ---
-# Welcome to Re-Equation
+# Welcome to Maths Is Useless
 
-I'm sick of bad maths education resources. I'm making my own.
+I believe maths should be enjoyed for the sake of enjoying it, like someone can enjoy music for the sake of it.
+When exploring mathematics, however, it's quite easy to stumble across some road blocks.
+You might come across an unfamiliar term, and finding what said term means can be like finding a needle in a haystack.
+I've spent countless hours scouring wikipedia articles to understand what things are, to be barraded with conviluted, unmotivated definitions.
+I might find myself reading a 30 page article bloated with uneeded ideas which have nothing to do with the idea I want to understand.
 
-Things written on this website aim to be as simple as possible, as short as possible, and as easy to understand as possible. I will use as little jargon as I can without being reductive. I will cover topics I find interesting in the moment.
-
-There is no resource that will perfectly teach everybody, but my hope is that this will come damn close.
+The whole point of this millenia old study is to more easily communicate the ideas underneath, it shouldn't be as prohibitive and confusing as many would believe it to be.
+To demonstrate this, every article on this website will be no more than a page long, to demonstrate the underlying simplicity of these ideas.
