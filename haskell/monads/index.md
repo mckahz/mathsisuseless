@@ -2,7 +2,7 @@
 title: "Monads"
 nav_order: 1
 parent: "Haskell"
-has_children: true
+has_children: false
 has_toc: false
 ---
 
@@ -11,7 +11,7 @@ has_toc: false
 After having understood monads, I don't get why there's so much tiptoeing around what they are.
 Ultimately, monads are a pattern we use to compose functions.
 Let's take a look at the list monad.
-I'm going to borrow the complex root example from ![You Could Have Invented Monads!](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html "this wonderful article").
+I'm going to borrow the complex root example from ![this wonderful article](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html).
 Which you should read, if you haven't already.
 
 Imagine we have a square root function which takes complex numbers, and return an array of it's square roots.
