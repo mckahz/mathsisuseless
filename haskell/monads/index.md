@@ -14,15 +14,15 @@ Let's take a look at the list monad.
 I'm going to borrow the complex root example from [this wonderful article](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html).
 Which you should read, if you haven't already.
 
-Imagine we have a square root function which takes complex numbers, and return an array of it's square roots.
-Likewise, imagine we have a cube root function which takes complex numbers and returns an array of it's square roots.
+Imagine we have a square root function which takes complex numbers, and return a list of it's square roots.
+Likewise, imagine we have a cube root function which takes complex numbers and returns a list of it's square roots.
 We would ideally like to be able to make a sixth root function which is the composition of the two.
 But the issue is that if we try to compose these functions like
 
     complex_sxrt z = complex_sqrt (complex_cbrt z)
 
-We run into the issue that complex_cbrt returns an array, but complex_sqrt only accepts root.
-We want to bind complex_sqrt into a function which *can* take arrays.
+We run into the issue that complex_cbrt returns an list, but complex_sqrt only accepts complex numbers, not lists of complex numbers.
+We want to bind complex_sqrt into a function which *can* take lists.
 Alternatively, we're *binding* the domain type of our function to the range type.
 Whichever makes more sense to you.
 For this reason, let's create a bind function:
@@ -33,7 +33,7 @@ This means that the binded version of complex_sqrt given by
 
     bind complex_sqrt
 
-Is able to take the results from complex_cbrt, apply complex_sqrt to each of them, then flattens the array with concat to get what we'd expect; an array of all 6 of our roots.
+Is able to take the results from complex_cbrt, apply complex_sqrt to each of them, then flattens the list with concat to get what we'd expect; a list of all 6 of our roots.
 Ultimately, what our bind function did was make turn the type of accepted values for complex_sqrt (complex numbers) into the type of output values (list of complex numbers).
 If we had a group of functions that had the same accepted and output values (domain and range), we could use this to bind them all and compose them in whichever way we wanted.
 
@@ -42,7 +42,7 @@ The actual bind operation in Haskell (given by \>\>=) is an infix operator and a
     value >>= function
 
 This allows for longs chains which look like step by step logic, kind of like the pipeline operator in F#.
-It also helps to define an identity function, a function which almost does nothing, except transform a complex number into an array of just that complex number.
+It also helps to define an identity function, a function which almost does nothing, except transform a complex number into a list of just that complex number.
 This way we can feed any complex number into any binded function.
 Haskell calls this identity function "return".
 
