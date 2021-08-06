@@ -37,7 +37,7 @@ Is able to take the results from complex_cbrt, apply complex_sqrt to each of the
 Ultimately, what our bind function did was make turn the type of accepted values for complex_sqrt (complex numbers) into the type of output values (list of complex numbers).
 If we had a group of functions that had the same accepted and output values (domain and range), we could use this to bind them all and compose them in whichever way we wanted.
 
-The actual bind operation in Haskell (given by >>=) is an infix operator and also requires you to feed the value from behind
+The actual bind operation in Haskell (given by \>\>=) is an infix operator and also requires you to feed the value from behind
 
     value >>= function
 
